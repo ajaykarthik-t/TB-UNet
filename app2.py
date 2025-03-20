@@ -178,7 +178,7 @@ if uploaded_file is not None:
                     st.markdown("Consider consulting with a medical professional for a definitive diagnosis.")
 
 # Add information about the model
-with st.expander("About the Models"):
+with st.expander("About  the Models"):
     st.markdown("""
     ### Model Information
     This application uses two pre-trained deep learning models:
